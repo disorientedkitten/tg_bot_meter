@@ -20,7 +20,7 @@ def create_inline_keyboard(dict_buttons, row_width=1):
     return markup
 
 
-token = '1846456342:AAGDxzfadV7pMcA2jWwbk65IWmhQrsOK7Bk'
+token = ''
 bot = telebot.TeleBot(token)
 
 # переменные для расчета
